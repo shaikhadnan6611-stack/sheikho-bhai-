@@ -1,0 +1,6 @@
+{
+  "name": "Shaikho Bhai Official Website",
+  "description": "Official personal branding website for Shaikho Bhai (Shaikh Adnan / شیخو بھائی) featuring social media links, biography, latest videos, photo gallery, and direct contact options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
